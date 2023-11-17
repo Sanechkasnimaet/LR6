@@ -43,7 +43,7 @@ git commit -m "comment"
 ```
 12) Сделал откат коммита ([рис. 13](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис13.png))
 ```
-git reset --haard HEAD~
+git reset --hard HEAD~
 ```
 13) Создал ветку для отчета ([рис. 14](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис14.png)).
 ```
