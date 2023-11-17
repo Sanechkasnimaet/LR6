@@ -2,7 +2,7 @@
 ### Цель лабораторной работы
 Изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием. 
 ### Ход работы
-1) Создал аккаунт на GitHub ([рис. 1](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис1.png))..
+1) Создал аккаунт на GitHub ([рис. 1](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис1.png)).
 2)	Сделал копию (fork) в личное хранилище из репозитория ([рис. 2](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис2.png)).
 3)	Установил Git.
 4)	После установки настроил клиент git, введя имя пользователя (4217 Mostovoy A.A.) и email ([рис. 3](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис3.png)).
@@ -27,7 +27,7 @@ git log origin/branch1
 ```
 git branch -v
 ```
-9) Выполнил слияние в ветку `master`, разрешив конфликт (([рис. 9](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис9.png)), ([рис. 10](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис10.png))).
+9) Выполнил слияние в ветку `master`, разрешив конфликт ([рис. 9](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис9.png)). Для разрешения конфликта я пивел файлы к виду, показанному на рисунке 10 ([рис. 10](https://github.com/Sanechkasnimaet/LR6/blob/new_branch/фото/рис10.png)).
 ```
 git merge origin/branch1
 ```
